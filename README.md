@@ -1,6 +1,5 @@
 # PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily
 "Graph Representation Learning Beyond Node and Homophily"
-# PairE: Graph Representation Learning Beyond Node and Homophily
 
 We provide the source code of paire. Our model implementation is based on keras, which allows the model to be trained by GPU.
 
